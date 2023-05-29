@@ -1,0 +1,3 @@
+[submodule "learn-apache-flink-101-exercises"]
+	path = learn-apache-flink-101-exercises
+	url = https://github.com/confluentinc/learn-apache-flink-101-exercises.git
